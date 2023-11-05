@@ -1,1 +1,2 @@
 # wear_customized_app
+A web base design for customizing T shirt, selecting the desirable color, design and logo. Embracing skill sets that includes React.js, three @react-three/fiber, @react-three/drei, maath, valtio, react-color framer-motion and Axios.
